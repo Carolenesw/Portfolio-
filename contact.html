@@ -23,8 +23,10 @@
 </head>
 
 <body>
-    <!-- Use content-container to wrap the entire page -->
-    <div class="content container">
+       <!-- Use container-fluid to allow full width (100%) on all devices  -->
+    <div class="container-fluid">
+        <!-- Use content-container to wrap the entire page -->
+        <section class="content-container">
         <!-- Add nav bar link to create responsive nav bar for multiple devices -->
         <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <a class="navbar-brand" href="#">Carolene Wilson-Grizzle</a>
@@ -42,9 +44,12 @@
                 </div>
             </div>
         </nav>
-        <!-- Use container-fluid to allow full width (100%) on all devices  -->
-        <div class="container-fluid">
+    </section>
+ 
+   
+        <div class="content-container">
             <h1>Contact</h1>
+            <section class="body">
             <form>
                 <div class="form-group">
                     <label for="exampleInputPassword1">Name</label>
@@ -63,16 +68,18 @@
                     <button type="submit" class="btn btn-primary">Submit</button>
                 </div>
             </form>
+        </section>
         </div>
-        <!-- Use nav bar sticky-bottom to create sticky footer, allows footer to remain at the bottom of the page as the page scrolls -->
-        <nav class="navbar sticky-bottom navbar-light bg-light">
-            <p>Email: carolenesw@gmail.com</p>
-            <p>Phone: 860-532-9305</p>
-            <a class="navbar-brand" href="https://www.linkedin.com/in/carolene-wilson-grizzle-8121bb82/">LinkedIn</a>
-            <a class="navbar-brand" href="https://github.com/Carolenesw">GitHub</a>
-            <p>Copyright &copy;</p>
-        </nav>
-    </div>
+    
+    <!-- Use nav bar sticky-bottom to create sticky footer, allows footer to remain at the bottom of the page as the page scrolls -->
+    <nav class="navbar sticky-bottom navbar-light bg-light">
+        <p>Email: carolenesw@gmail.com</p>
+        <p>Phone: 860-532-9305</p>
+        <a class="navbar-brand" href="https://www.linkedin.com/in/carolene-wilson-grizzle-8121bb82/">LinkedIn</a>
+        <a class="navbar-brand" href="https://github.com/Carolenesw">GitHub</a>
+        <p>Copyright &copy;</p>
+    </nav>
+</div>
 </body>
 
 </html>
