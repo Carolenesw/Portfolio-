@@ -22,64 +22,68 @@
 </head>
 
 <body>
-    <!-- Add nav bar link to create responsive nav bar for multiple devices -->
-    <nav class="navbar navbar-expand-lg navbar-light bg-light">
-        <a class="navbar-brand" href="#">Carolene Wilson-Grizzle</a>
-        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
-            aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-        </button>
-        <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
-            <div class="navbar-nav">
-                <a class="nav-item nav-link active" href="index.html">Home/About Me <span
-                        class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link" href="contact.html">Contact</a>
-                <a class="nav-item nav-link" href="portfolio.html">Porfolio</a>
+    <!-- Use content-container to wrap the entire page -->
+    <div class="content container">
+        <!-- Add nav bar link to create responsive nav bar for multiple devices -->
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">Carolene Wilson-Grizzle</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavAltMarkup"
+                aria-controls="navbarNavAltMarkup" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
+                <div class="navbar-nav">
+                    <a class="nav-item nav-link active" href="index.html">Home/About Me <span
+                            class="sr-only">(current)</span></a>
+                    <a class="nav-item nav-link" href="contact.html">Contact</a>
+                    <a class="nav-item nav-link" href="portfolio.html">Porfolio</a>
 
+                </div>
+            </div>
+        </nav>
+        <!-- Use container-fluid to allow full width (100%)on all devices  -->
+        <div class="container-fluid">
+            <h1>Portfolio</h1>
+            <div class="img">
+                <div>
+                    <img src="./asset/image/blonde-woman-sitting-couch-drinking-coffee.jpg" alt="Women in IT"
+                        width="250" />
+                    <h4>Women in IT</h4>
+                </div>
+
+                <div>
+                    <img src="./asset/image/colleagues-giving-fist-bump.jpg" alt="Women in IT" width="250" />
+                    <h4>Team Collaboration</h4>
+                </div>
+
+                <div>
+                    <img src="./asset/image/futuristic-technology-screen-interface.jpg" alt="Futuristic Technology"
+                        width="250" />
+                    <h4>Futuristic Technology</h4>
+                </div>
+
+                <div>
+                    <img src="./asset/image/girl-work-cat.jpg" alt="Working Remote" width="250" />
+                    <h4>Working Remote</h4>
+                </div>
+
+                <div>
+                    <img src="./asset/image/peaceful-businessman-vr-headset-enjoying-virtual-video.jpg"
+                        alt="Fun with Technology" width="250" />
+                    <h4>Fun with Technology</h4>
+                </div>
             </div>
         </div>
-    </nav>
-<!-- Use container-fluid to allow full width (100%)on all devices  -->
-    <div class="container-fluid">
-        <h1>Portfolio</h1>
-        <div class="img">
-            <div>
-                <img src="./asset/image/blonde-woman-sitting-couch-drinking-coffee.jpg" alt="Women in IT" width="250" />
-                <h4>Women in IT</h4>
-            </div>
 
-            <div>
-                <img src="./asset/image/colleagues-giving-fist-bump.jpg" alt="Women in IT" width="250" />
-                <h4>Team Collaboration</h4>
-            </div>
-
-            <div>
-                <img src="./asset/image/futuristic-technology-screen-interface.jpg" alt="Futuristic Technology"
-                    width="250" />
-                <h4>Futuristic Technology</h4>
-            </div>
-
-            <div>
-                <img src="./asset/image/girl-work-cat.jpg" alt="Working Remote" width="250" />
-                <h4>Working Remote</h4>
-            </div>
-
-            <div>
-                <img src="./asset/image/peaceful-businessman-vr-headset-enjoying-virtual-video.jpg"
-                    alt="Fun with Technology" width="250" />
-                <h4>Fun with Technology</h4>
-            </div>
-        </div>
+        <!-- Use nav bar sticky-bottom to create sticky footer, allows footer to remain at the bottom of the page as the page scrolls -->
+        <nav class="navbar sticky-bottom navbar-light bg-light">
+            <p>Email: carolenesw@gmail.com</p>
+            <p>Phone: 860-532-9305</p>
+            <a class="navbar-brand" href="https://www.linkedin.com/in/carolene-wilson-grizzle-8121bb82/">LinkedIn</a>
+            <a class="navbar-brand" href="https://github.com/Carolenesw">GitHub</a>
+            <p>Copyright &copy;</p>
+        </nav>
     </div>
-
-    <!-- Use nav bar sticky-bottom to create sticky footer, allows footer to remain at the bottom of the page as the page scrolls -->
-    <nav class="navbar sticky-bottom navbar-light bg-light">
-        <p>Email: carolenesw@gmail.com</p>
-        <p>Phone: 860-532-9305</p>
-        <a class="navbar-brand" href="https://www.linkedin.com/in/carolene-wilson-grizzle-8121bb82/">LinkedIn</a>
-        <a class="navbar-brand" href="https://github.com/Carolenesw">GitHub</a>
-        <p>Copyright &copy;</p>
-    </nav>
 </body>
 
 
