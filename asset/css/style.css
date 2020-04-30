@@ -2,7 +2,7 @@
     background-color: lightgray;
 } */
 
-/* Add styling to entire nav bar */
+/* Add styling to entire nav bar, use google font family*/
 #nav {
     background-color:cornsilk;
     font-family: 'Roboto Slab', serif;
@@ -53,14 +53,18 @@
 }
 p {
     text-align: justify;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-.navbar sticky-bottom  {
+h1 {
+    font-family: 'Roboto Slab', serif;
+}
+/* .navbar sticky-bottom  {
     text-align: center;
     background-color: yellowgreen;
 }
 
 #footer {
     background-color: tomato;
-}
+} */
 /* Add styling to the main body of the page  */
