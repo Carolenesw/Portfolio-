@@ -1,3 +1,73 @@
-. navbar {
-    background-color: blue;
+/* * {
+    background-color: lightgray;
+} */
+
+/* Add styling to entire nav bar */
+#nav {
+    background-color:cornsilk;
+    font-family: 'Roboto Slab', serif;
+    margin-bottom: 10px;
+    
+    
 }
+
+/* style navbar-brand (Name) in header */
+.navbar-brand {
+    background-color: palevioletred;
+    font-weight: bolder;
+    /* color: darkgray; */
+    padding: 20px;
+    font-size: 2em;
+    font-family: 'Roboto Slab', serif;
+} 
+
+/* Use pixes to push link about me to the right  */
+#about-me {
+    margin-left: 600px;
+    color: darkgray
+  
+}
+
+#portfolio {
+    color: darkgray
+}
+
+#contact {
+    color: darkgray
+}
+
+#about-me:hover {
+    background-color: palevioletred;
+    font-style: italic;
+    color: whitesmoke;
+    
+}
+
+#contact:hover {
+    background-color: palevioletred;
+    font-style: italic;
+    color: whitesmoke;
+}
+
+#portfolio:hover {
+    background-color: palevioletred;
+    font-style: italic;
+    color: whitesmoke;
+}
+
+/*  */
+/* .navbar-nav {
+    background-color: hotpink;
+    margin-left: 150px; */ */ */
+/* }
+/* Add styling to the main body of the page  */
+/* .content-container {
+    box-sizing: border-box;
+    /* padding: 0; */
+    /* margin-left: 80px;
+    margin-right: 80px;
+    border: lightgrey solid; */
+    /* background-color: whitesmoke; */
+
+
+ */ */
