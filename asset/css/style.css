@@ -7,8 +7,6 @@
     background-color:cornsilk;
     font-family: 'Roboto Slab', serif;
     margin-bottom: 10px;
-    
-    
 }
 
 /* style navbar-brand (Name) in header */
@@ -25,7 +23,6 @@
 #about-me {
     margin-left: 600px;
     color: darkgray
-  
 }
 
 #portfolio {
@@ -54,20 +51,16 @@
     font-style: italic;
     color: whitesmoke;
 }
+p {
+    text-align: justify;
+}
 
-/*  */
-/* .navbar-nav {
-    background-color: hotpink;
-    margin-left: 150px; */ */ */
-/* }
+.navbar sticky-bottom  {
+    text-align: center;
+    background-color: yellowgreen;
+}
+
+#footer {
+    background-color: tomato;
+}
 /* Add styling to the main body of the page  */
-/* .content-container {
-    box-sizing: border-box;
-    /* padding: 0; */
-    /* margin-left: 80px;
-    margin-right: 80px;
-    border: lightgrey solid; */
-    /* background-color: whitesmoke; */
-
-
- */ */
