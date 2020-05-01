@@ -12,13 +12,13 @@ Create a responsive design web application that render on different devices and 
 
 ## Userbility
 
-- This website should render on extra small screen to large screen size, with responisve layout
+- This website should render on extra small screens to large screen sizes, with responisve layout
     - On extra smaller screens website should take up the entire page
     - On small and larger screens website should have margins on the left and right of the page
 - Website nav-bar should be consistent on all pages 
 - Page should follow HTML validation services
 - Nav-bar on each pages must have links to Home/About Me, Contact and Portfolio pages that work
-- Website must contact developer personal information:
+- Website must contains developer personal information:
     - Developer's bio 
     - Name
     - Picture
@@ -26,9 +26,3 @@ Create a responsive design web application that render on different devices and 
 - Wedsite must properly utilized bootstrap grid system and components:
     - Rows and columns 
     - Responsive design 
-
-
-
-
-
--
