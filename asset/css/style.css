@@ -21,7 +21,7 @@
 
 /* Use pixes to push link about me to the right  */
 #about-me {
-    margin-left: 600px;
+    margin-left: 550px;
     color: darkgray
 }
 
@@ -58,6 +58,10 @@ p {
 
 h1 {
     font-family: 'Roboto Slab', serif;
+    border-bottom: solid darkgray;
+    padding-bottom: 30px;
+    margin-bottom: 60px;
+    margin-top: 0;
 }
 
 /* style image names */
