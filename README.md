@@ -23,6 +23,6 @@ Create a responsive design web application that render on different devices and 
     - Name
     - Picture
     - Active links to social media 
-- Wedsite must properly utilized bootstrap grid system and components:
+- Website must properly utilized bootstrap grid system and components:
     - Rows and columns 
     - Responsive design 

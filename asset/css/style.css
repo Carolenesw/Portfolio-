@@ -14,7 +14,7 @@
 .navbar-brand {
     background-color: palevioletred;
     font-weight: bolder;
-    /* color: darkgray; */
+    color: darkgray;
     padding: 20px;
     font-size: 2em;
     font-family: 'Roboto Slab', serif;
@@ -22,7 +22,7 @@
 
 /* Use pixes to push link about me to the right  */
 #about-me {
-    margin-left: 550px;
+    /* margin-left: 550px; */
     color: darkgray
 }
 
