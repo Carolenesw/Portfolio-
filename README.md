@@ -42,7 +42,7 @@ https://carolenesw.github.io/Portfolio-/
 
 ## Images
 
-<img src="asset/image/portfolio.png">
+<img src="asset/portfolio.png">
 
 
 <img src="asset/image/about_me.png">
