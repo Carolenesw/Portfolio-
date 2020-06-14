@@ -23,6 +23,27 @@ Create a responsive design web application that render on different devices and 
     - Name
     - Picture
     - Active links to social media 
+        -- GitHub profile & LinkedIn page
+        -- Email address and phone number
+        -- Link to a PDF of your resume
+    - List of projects with the following:
+        -- Project title
+        -- Link to the deployed version
+        -- Link to the GitHub repository
+
+Screenshot of the deployed application
 - Website must properly utilized bootstrap grid system and components:
     - Rows and columns 
     - Responsive design 
+
+## link
+
+https://carolenesw.github.io/Portfolio-/
+
+## Images
+
+<img src="asset/image/portfolio.png">
+
+
+<img src="asset/image/about_me.png">
+
