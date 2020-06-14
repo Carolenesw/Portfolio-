@@ -2,7 +2,7 @@
 
 ## User Story 
 
-Create a responsive design web application that render on different devices and screen sizes 
+Create a Profile/About Me responsive design web application that render on different devices and screen sizes. 
 
 ## Techonology
 
@@ -42,7 +42,7 @@ https://carolenesw.github.io/Portfolio-/
 
 ## Images
 
-<img src="asset/image/portfolio.png">
+<img src="asset/image/portfolio_img.png">
 
 
 <img src="asset/image/about_me.png">
