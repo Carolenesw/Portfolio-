@@ -69,7 +69,7 @@ img {
     margin-right: 5px;
 }
 /* style image caption and position over captioned image */
-h4 {
+.caption {
     background-color: palevioletred;
     width: 88%;
     padding: 5px;
