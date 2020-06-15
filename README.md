@@ -23,13 +23,13 @@ Create a Profile/About Me responsive design web application that render on diffe
     - Name
     - Picture
     - Active links to social media 
-        -- GitHub profile & LinkedIn page
-        -- Email address and phone number
-        -- Link to a PDF of your resume
+        - GitHub profile & LinkedIn page
+        - Email address and phone number
+        - Link to a PDF of your resume
     - List of projects with the following:
-        -- Project title
-        -- Link to the deployed version
-        -- Link to the GitHub repository
+        - Project title
+        - Link to the deployed version
+        - Link to the GitHub repository
 
 Screenshot of the deployed application
 - Website must properly utilized bootstrap grid system and components:
@@ -46,3 +46,6 @@ https://carolenesw.github.io/Portfolio-/
 
 
 <img src="asset/image/about_me.png">
+
+
+
